@@ -1,0 +1,2 @@
+This is my very first shell script! Enter name, number, and I'll get back to you.
+Hello >> homework7.txt, is this your number?: >>homework.txt
